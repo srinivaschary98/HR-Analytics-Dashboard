@@ -29,6 +29,3 @@ This project analyzes employee attrition using the IBM HR Analytics dataset.
 - Dashboard Design
 - Data Visualization
 - Business Insights
-
-## Dashboard
-(Add Tableau Public Link Here)
